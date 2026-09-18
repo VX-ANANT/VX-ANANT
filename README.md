@@ -18,16 +18,16 @@
 
 </div>
 
-### ⚡ Quick Snapshot
+###  Quick Snapshot
 
-- 📱 **What I'm building:** Scalable Android applications with cutting-edge Material 3 design and reactive architectures.
-- 🧠 **Current Obsession:** AI-assisted developer tooling, automated watchdog bots, and real-time esports tournament engines.
-- 🛠️ **Core Philosophy:** Clean code, frictionless user experience, and robust engineering over hype.
-- 💬 **Ask me about:** Android architecture, Kotlin Coroutines & Flow, Firebase Realtime Database, and building Telegram automation bots.
+-  **What I'm building:** Scalable Android applications with cutting-edge Material 3 design and reactive architectures.
+-  **Current Obsession:** AI-assisted developer tooling, automated watchdog bots, and real-time esports tournament engines.
+-  **Core Philosophy:** Clean code, frictionless user experience, and robust engineering over hype.
+-  **Ask me about:** Android architecture, Kotlin Coroutines & Flow, Firebase Realtime Database, and building Telegram automation bots.
 
 ---
 
-### 💻 Tech Stack & Toolbox
+###  Tech Stack & Toolbox
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 ---
 
-### 🏆 Achievements & Badges
+###  Achievements & Badges
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VX-ANANT&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
@@ -50,7 +50,7 @@
 
 ---
 
-### 📊 GitHub Activity & Streak
+###  GitHub Activity & Streak
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate!
+###  Let's Connect & Collaborate!
 
 [![Email](https://img.shields.io/badge/Email-anantisback47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anantisback47@gmail.com)
 
