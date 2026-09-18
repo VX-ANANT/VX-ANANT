@@ -2,7 +2,12 @@
 
 # Hey there, I'm Anant 👋
 ### *Android Engineer • Full-Stack Builder • AI Integrator*
+<!-- Dynamic Animated Typing Header -->
+<a href="https://github.com/VX-ANANT">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=550&lines=Crafting+fluid+Android+apps+with+Kotlin;Building+real-time+esports+engines;Integrating+Gemini+AI+automations;Zero-friction+user+experiences" alt="Typing SVG" />
+</a>
 
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VX-ANANT&label=Profile%20Views&color=7F52FF&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Mobile%20Architecture%20%26%20AI-blue?style=flat-square" alt="Focus" />
