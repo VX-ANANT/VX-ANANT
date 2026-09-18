@@ -74,7 +74,24 @@
 ###  Let's Connect & Collaborate!
 
 [![Email](https://img.shields.io/badge/Email-service.veloxyra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:service.veloxyra@gmail.com)
+<div align="center">
 
+### 🌐 Connect in Cyberspace
+
+<a href="mailto:anantisback47@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://t.me/VeloXyra_Official">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://github.com/VX-ANANT">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://discord.com/anant._.sgh">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+</div>
 *"First make it work, then make it right, then make it fast."*
 
 </div>
