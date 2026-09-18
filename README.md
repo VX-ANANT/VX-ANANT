@@ -68,7 +68,7 @@
 
 ###  Let's Connect & Collaborate!
 
-[![Email](https://img.shields.io/badge/Email-anantisback47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anantisback47@gmail.com)
+[![Email](https://img.shields.io/badge/Email-service.veloxyra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:service.veloxyra@gmail.com)
 
 *"First make it work, then make it right, then make it fast."*
 
